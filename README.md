@@ -18,6 +18,6 @@ run npm develop
 
 add new image and check if the url points back to claudinary
 
-[First Image](./img-1.png)
+![First Image](./img-1.png)
 
-[Second Image](./img-2.png)
+![Second Image](./img-2.png)
